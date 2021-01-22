@@ -1,5 +1,6 @@
 ### Olá, me chamo Esdras Tomaz :D
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://esdrastomaz.github.io/)]
+
+<div align="center">
 
 <a href="ttps://www.linkedin.com/in/esdras-tomaz-6943a81a0/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
