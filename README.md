@@ -18,3 +18,8 @@
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrastomaz&layout=compact)](https://github.com/esdrastomaz/github-readme-stats)
+
+
+
+#### “Seja curioso. Leia muito. Experimente coisas novas. Eu acho que muito do que as pessoas chamam de inteligência apenas se resume a curiosidade.”
+― Aaron Swartz
