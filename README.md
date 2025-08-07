@@ -14,7 +14,7 @@
 	<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
-##### Fromado em de Sistemas de Informação pela UEMG-Universidade do Estado de Minas Gerais. Trabalho como Gerente de Suporte na Commerceplus uma Plataforma de Ecommerce completa com mais de 200 recursos e integração nativa com mais de 50 Marketplaces.
+##### Formado em de Sistemas de Informação pela UEMG-Universidade do Estado de Minas Gerais. Trabalho como Gerente de Suporte na Commerceplus uma Plataforma de Ecommerce completa com mais de 200 recursos e integração nativa com mais de 50 Marketplaces.
 
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrastomaz&layout=compact)](https://github.com/esdrastomaz/)
